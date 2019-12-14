@@ -1,0 +1,11 @@
+{
+  "name": "google-translate-test",
+  "version": "1.0.0",
+  "description": "Project for testing Google Translate website",
+  "dependencies": {
+    "cypress-file-upload": "^3.5.1",
+    "cypress": "^3.7.0"
+  },
+  "author": "Michal Kubele <michal.kubele@gmail.com>",
+  "license": "ISC"
+}
